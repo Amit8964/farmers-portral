@@ -1,8 +1,8 @@
 # farmers-portal
 
-online portal for farmers to upload their sell
+online portal for farmers to upload their produce
 and buyer can direcly contact to the farmer
-to buy their stuff.
+to buy their produce.
 
 
 # description
@@ -16,7 +16,7 @@ and start xampp on localhost:
 
 
 
-## Technologies
+#Technologies
  * HTML5
  * PHP
  * CSS
